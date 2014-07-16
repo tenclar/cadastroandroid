@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_novo"
+        android:icon="@drawable/novo"
+        android:title="Novo"/>
+    
+    
+    <item
+        android:id="@+id/menu_galeria"
+        android:icon="@drawable/foto"
+        android:title="Galeria"/>
+    
+    <item
+        android:id="@+id/menu_mapa"
+        android:icon="@drawable/mapa"
+        android:title="Mapa"/>
+    
+    <item
+        android:id="@+id/menu_pref"
+        android:icon="@drawable/planeta"
+        android:title="Prefenẽncias"/>
+    
+    
+    
+    <item
+        android:id="@+id/menu_provas"
+        android:icon="@drawable/planeta"
+        android:title="Provas"/>
+    <item
+        android:id="@+id/menu_sync"
+        android:icon="@drawable/planeta"
+        android:title="Sync"/>
+
+</menu>

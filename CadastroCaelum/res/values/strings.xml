@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ListaAlunos!</string>
+    <string name="app_name">Cadastro Caelum</string>
+    <string name="app_CadAluno">Cadastro Aluno</string>
+    <string name="app_Mapa">Mapa</string>
+
+</resources>
